@@ -1,2 +1,2 @@
-# full-stack-classification-app
-full stack machine learning application for machine learning classification tasks
+# Full-stack-classification-app
+Full-stack application for machine learning classification tasks
