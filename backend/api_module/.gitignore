@@ -1,0 +1,5 @@
+__pycache__/*
+instance/
+*.png
+.vscode/*
+.DS_Store

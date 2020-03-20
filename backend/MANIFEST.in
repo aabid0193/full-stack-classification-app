@@ -1,0 +1,3 @@
+include api_module/schema.sql
+graft api_module/static
+global-exclude *.pyc
